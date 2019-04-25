@@ -1,0 +1,4 @@
+cd ~/github/CV-NLP_Practice.PyTorch/
+git add --all
+git commit -m "update repos"
+git push -u origin master
