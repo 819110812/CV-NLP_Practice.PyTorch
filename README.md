@@ -1,3 +1,4 @@
+If you have any interest in computer vision & natural language processing, you can visit the [course site](http://www.mooc.ai/course/427).
 
 # Computer Vision + Natural Language Processing</br>
 
@@ -16,9 +17,5 @@
 <tr><td><a href=https://github.com/gujiuxiang/Stack-Captioning.git>Stack-Captioning</a></td><td>Stack-Captioning: Coarse-to-Fine Learning for Image Captioning</td></tr>
 </table>
 
+# Recent Advances
 
-## [About me](http://jxgu.cc)
-
-
-If you have any interest in deep learning and natural language processing, you can visit the course site.
-![](http://static.mooc.ai/files/course/2018/01-26/1126499ce223574244.jpg)
